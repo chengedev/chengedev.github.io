@@ -1,6 +1,6 @@
 # Site settings
 title: Chen Ge
-description: '30年的业余编程爱好者<br/>C#,Python,Golang,Javascript'
+description: 'a full stack developer'
 url: 'https://chenge.dev'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
@@ -9,10 +9,10 @@ baseurl: ''
 
 author:
   name: 'Chen Ge'
-  email: fobgeorge@msn.com
+  email: chengedev@outlook.com
   # twitter_username: fobgeorge
-  facebook_username: fobgeorge
-  github_username:  fobgeorge
+  # facebook_username: fobgeorge
+  github_username:  chengedev
   # linkedin_username:  fobgeorge
 
 defaults:
